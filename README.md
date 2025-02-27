@@ -1,6 +1,7 @@
 I'm excited to share that I’ve completed the frontend level of my TripAdvisor project using HTML & CSS! 🌍💻
 
 Through this journey, I honed my skills in:
+
 ✅ Structuring web pages with semantic HTML
 
 ✅ Styling with CSS for responsive and visually appealing design
